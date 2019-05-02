@@ -36,3 +36,38 @@ A complexidade de tempo quantifica a porção de tempo tomada por um algoritmo p
 O melhor algoritmo é o *f*1, pois tem a entrada menor. 
 
 &nbsp;
+
+**7. Em uma função de complexidade, o que representa o termo *n*?**
+
+O termo *n* representa o tamanho da entrada. 
+
+&nbsp;
+
+**8. Quais são as operações primitivas de um algoritmo?**
+
+Atribuição de valores a variáveis; Chamadas de métodos; Operações aritméticas; Comparação de dois números; Acesso a um arranjo; Seguimento de uma referência para um objeto; Retorno de um método.
+
+&nbsp;
+
+**9. Qual é o valor de uma operação primitiva de um algoritmo?**
+
+Para cada operação primitiva se atribui o valor 1. 
+
+&nbsp;
+
+**10. Desenvolva o pseudocódigo do algoritmo SOMA, que realiza a soma de dois números inteiros recebidos por parâmetro e tem como saída a resultado da operação. Identifique a sua função de complexidade de tempo.**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/Capturar.PNG)
+
+f(n) = c1 * 1 + c2 * 1 
+
+f(n) = 1 * 1 + 1 * 1
+
+f(n) = 1 + 1
+
+f(n) = 2
+
+&nbsp;
+
+
+
