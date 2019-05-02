@@ -166,5 +166,133 @@ n0 = 4
 &nbsp;
 
 
+**21. O que é a notação o-pequeno ou Little-Oh?**
+
+Notação o-pequeno diz que uma função é menor que a outra função g(n). Ou seja, f é dominada por g assintoticamente.
+
+&nbsp;
+
+**22. Qual é a definição formal da notação o-pequeno?**
+
+Formalmente definimos como: Onde R+ é o conjunto dos reais não negativos.
+
+&nbsp;
+
+
+**23. Crie um gráfico explicando a notação o-pequeno?**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/23.PNG)
+
+&nbsp;
+
+**24. Passe a notação O-Grande e o-pequeno as funções abaixo:**
+
+**A) F(n) = n + 1**
+
+O(n)
+
+o(n²)
+
+&nbsp;
+
+**B) F(n) = 8**
+
+O(1)
+
+o(n)
+
+&nbsp;
+
+**C) F(n) = 2n² − 1**
+
+O(n²)
+
+o(2^n)
+
+&nbsp;
+
+**D) F(n) = nlogn**
+
+O(logn)
+
+o(n²)
+
+&nbsp;
+
+**E) F(n) = 3n! + 2n**
+
+O(n!)
+
+o(n!²)
+
+&nbsp;
+
+**F) F(n) = 3n³ + 2n² + 4n + 6**
+
+O(n³)
+
+o(n!)
+
+&nbsp;
+
+**G) F(n) = 5^n + 11**
+
+O(5^n)
+
+o(n * n!)
+
+&nbsp;
+
+**H) F(n) = 3logn**
+
+O(logn)
+
+o(n²)
+
+&nbsp;
+
+**25. Identifique o O-Grande dos algoritmos desenvolvidos nos problemas 10 até 14.**
+
+10- f(n)=2
+
+O(1)
+
+o(n)
+
+&nbsp;
+
+11- f(n)=3n+3
+
+O(m)
+
+o(nlog(n))
+
+&nbsp;
+
+12- f(n)=4n+3
+
+O(n)
+
+o(n²)
+
+&nbsp;
+
+13- f(n)=3n² + 2n + 3
+
+O(n²)
+
+o(n!)
+
+&nbsp;
+
+14- f(n)=4n² + 2n + 2
+
+O(n²)
+
+o(2^n)
+
+
+
+
 
 
