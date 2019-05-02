@@ -145,4 +145,26 @@ A notação assintótica é para descrever o relacionamento é *f(n) = O(n³)*.
 
 &nbsp;
 
+**18. O que é notação O-Grande ou Big-Oh?**
+
+Notação O-Grande diz que uma função é menor que ou igual a outra função g(n). Ou seja, f é limitada superiormente por g (até no máximo um fator constante) assintoticamente.
+
+&nbsp;
+
+**19. Qual é a definição formal da notação O-Grande?**
+
+Formalmente definimos como: Onde R+ é o conjunto dos reais não negativos.
+
+&nbsp;
+
+**20. Crie um gráfico explicando a notação O-Grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/20.PNG)
+
+n0 = 4
+
+&nbsp;
+
+
+
 
