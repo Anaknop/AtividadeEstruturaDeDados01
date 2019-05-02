@@ -69,5 +69,53 @@ f(n) = 2
 
 &nbsp;
 
+**11. Desenvolva o pseudocódigo do algoritmo SOMA_VETOR, que realiza a soma de todos os elementos de um vetor. O algoritmo recebe o vetor V e tem como saída o resultado. Identifique a sua função de complexidade de tempo.**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/11.PNG)
+
+f(n) = c1 * 1 + c2 * 1 + c3 * n + c4 * n + c5 * n + c6 * 1
+
+f(n) = 1 * 1 + 1 * 1 + 1 * n + 1 * n + 1 * n + 1 * 1
+
+f(n) = 1 + 1 + n + n + n + 1
+
+f(n) = 3n + 3
+
+&nbsp;
+
+**12. Desenvolva o pseudocódigo do algoritmo CONTAGEM_IMPARES, que realiza a contagem de números impares de um vetor. O algoritmo recebe o vetor V e tem como saída o resultado. Identifique a sua função de complexidade de tempo.**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/12.PNG)
+
+f(n) = c1 * 1 + c2 * 1 + c3 * n + c4 * n + c5 * n + c6 * n + c7 * 1
+
+f(n) = 1 * 1 + 1 * 1 + 1 * n + 1 * n + 1 * n + 1 * n + 1 * 1
+
+f(n) = 1 + 1 + n + n + n + n + 1
+
+f(n) = 4n + 3
+
+&nbsp;
+
+**13. Desenvolva o pseudocódigo do algoritmo SOMA_MATRIZ, que realiza a soma de todos os elementos de uma matriz. O algoritmo recebe a matriz M e tem como saída o resultado. Identifique a sua função de complexidade de tempo.**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/13.PNG)
+
+f(n) = 1 + 1 + n + n * n + n * n + n * n + n + 1
+
+f(n) = 3n² + 2n + 3
+
+&nbsp;
+
+**14. Desenvolva o pseudocódigo do algoritmo BUSCA_MATRIZ, que identifica posição x e y de um elemento em uma matriz. O algoritmo recebe a matriz M e o valor V e tem como saída a posição x e y. Identifique a sua função de complexidade de tempo.**
+
+![](https://raw.githubusercontent.com/luizaliebl/AnaliseAlgoritmos/master/Imagens/14.PNG)
+
+f(n) = 1 + n + n² + n² + n² + n² + n + 1
+
+f(n) = 4n² + 2n + 2
+
+&nbsp;
+
 
 
