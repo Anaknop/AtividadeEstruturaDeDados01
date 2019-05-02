@@ -117,5 +117,32 @@ f(n) = 4n² + 2n + 2
 
 &nbsp;
 
+**15. O que é análise assintótica? Qual é o seu objetivo?**
+
+A análise assintótica é um método de descrever o comportamento de limites, com objetivo de compreender o tempo de execução para entradas grandes. 
+
+&nbsp;
+
+**16. Qual é o processo da análise assintótica? Crie um exemplo.**
+
+1- *f*(n) = 6n3 + 2n2 + 20n + 45
+
+2- Identificar o componente de maior ordem
+
+3- 6n³
+
+4- Ignorar os coeficientes
+
+5- n³
+
+Dizemos que f é, assintoticamente, no máximo, n³.
+
+&nbsp;
+
+**17. O que é notação assintótica?**
+
+A notação assintótica é para descrever o relacionamento é *f(n) = O(n³)*.
+
+&nbsp;
 
 
